@@ -217,7 +217,7 @@ function openMenu() {
 }
 
 function closeMenu() {
-	preferenceMenu.style.right = '-37vh';
+	preferenceMenu.style.right = '-200vh';
 	localStorage.removeItem('preferenceMenu');
 }
 
